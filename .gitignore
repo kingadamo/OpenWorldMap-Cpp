@@ -433,3 +433,4 @@ FodyWeavers.xsd
 
 x64/
 .vs/
+!lib/*.*
